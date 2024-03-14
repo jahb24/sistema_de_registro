@@ -4,3 +4,4 @@
 
 Para ejecutar el sistema, se debe poner:
 ```npm install react```
+<p>Creando cositas...</p>
